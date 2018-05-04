@@ -1,2 +1,8 @@
-# CT5PROG
-CT5PROG coursework for the University of portsmouth
+CONTROLS:
+ z                     - Jump
+ Enter                 - Pause
+ Left/Right Arrow Keys - Move
+ Backspace             - Reset
+
+Objective:
+ Reach the top of the platfroms and touch the unique block.

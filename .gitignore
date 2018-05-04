@@ -1,0 +1,16 @@
+
+*.exe
+
+*.gba
+
+*.elf
+
+build/
+
+vba\.ini
+
+grit/
+
+images/
+
+music/
