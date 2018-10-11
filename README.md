@@ -2,7 +2,7 @@
   
 I'm not the most experienced with C, let alone with the GBA. This was made using DevKitArm for the gameboy advanced.
   
-CONTROLS:
+CONTROLS:  
  z                     - Jump  
  Enter                 - Pause  
  Left/Right Arrow Keys - Move  
